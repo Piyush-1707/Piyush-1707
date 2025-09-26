@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>I'm Piyush Priyadarshi</strong><br />
-  3rd Year B.Tech Computer Engineering Student at <b>Silicon University</b> <br />
+  4th Year B.Tech Computer Engineering Student at <b>Silicon University</b> <br />
   <em>Passionate about building modern web & Android apps 🚀</em>
 </p>
 
